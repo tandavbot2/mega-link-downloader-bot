@@ -4,8 +4,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-git+https://github.com/XMYSTERlOUSX/pyrogram
-pyrogram<=2.0.106
+pyrogram
 requests
 tgcrypto
 python-dotenv
@@ -13,7 +12,7 @@ redis
 psycopg2-binary
 feedparser
 filesplit
-git+https://github.com/XMYSTERlOUSX/mega.py
+mega.py
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
