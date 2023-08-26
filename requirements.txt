@@ -1,6 +1,5 @@
 python-telegram-bot
 instaloader
-aiohttp
 beautifulsoup4
 hachoir
 numpy
@@ -14,3 +13,6 @@ psycopg2-binary
 feedparser
 filesplit
 git+https://github.com/XMYSTERlOUSX/mega.py
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
