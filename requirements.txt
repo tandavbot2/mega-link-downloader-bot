@@ -5,6 +5,7 @@ hachoir
 numpy
 Pillow
 git+https://github.com/XMYSTERlOUSX/pyrogram
+pyrogram<=2.0.106
 requests
 tgcrypto
 python-dotenv
