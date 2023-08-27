@@ -4,6 +4,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
+git+https://github.com/XMYSTERlOUSX/pyrogram
 pyrogram
 requests
 tgcrypto
@@ -12,6 +13,7 @@ redis
 psycopg2-binary
 feedparser
 filesplit
+git+https://github.com/XMYSTERlOUSX/mega.py
 mega.py
 Flask==2.2.2
 gunicorn==20.1.0
